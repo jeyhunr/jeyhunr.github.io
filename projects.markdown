@@ -4,15 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-#### <b> fridgiGO </b>
+#### ***fridgiGO*** [visit site](http://fridgigo.com){:target="_blank"}
 
 Full-Stack social network project. 
 
 You can find the source code of this project on <b>Github</b>.
 
-- [Backend](https://github.com/jeyhunr/fridgigo-backend)
-- [Frontend](https://github.com/jeyhunr/fridgigo-frontend)
+- [Backend](https://github.com/jeyhunr/fridgigo-backend){:target="_blank"}
+- [Frontend](https://github.com/jeyhunr/fridgigo-frontend){:target="_blank"}
 
-<b>Technologies</b>: JavaScript, NodeJS, ReactJS, MongoDB
+<b>Technologies</b>: JavaScript, Node/Express.JS, React, MongoDB
 
 --
