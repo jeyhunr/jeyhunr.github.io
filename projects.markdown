@@ -10,9 +10,9 @@ Full-Stack social network project.
 
 You can find the source code of this project on <b>Github</b>.
 
-- [Backend](https://github.com/jeyhunr/fridgigo-backend){:target="_blank"}
+- [Backend](https://github.com/jeyhunr/fridgigo-backend){:target="_blank"} *(Full Login/Register System)*
 - [Frontend](https://github.com/jeyhunr/fridgigo-frontend){:target="_blank"}
 
-<b>Technologies</b>: JavaScript, Node/Express.JS, React, MongoDB
+<b>Technologies</b>: HTML5, CSS3, JavaScript(jQuery), Go(Golang), Node/Express.JS, MongoDB, SQL
 
 --
