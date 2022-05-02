@@ -11,8 +11,9 @@ Full-Stack social network project.
 You can find the source code of this project on <b>Github</b>.
 
 - [Backend](https://github.com/jeyhunr/fridgigo-backend){:target="_blank"} *(Full Login/Register System)*
+- [APIs](https://github.com/jeyhunr/fridgiGO-API){:target="_blank"} *Services*
 - [Frontend](https://github.com/jeyhunr/fridgigo-frontend){:target="_blank"}
 
-<b>Technologies</b>: HTML5, CSS3, JavaScript(jQuery), Go(Golang), Node/Express.JS, MongoDB, SQL
+<b>Technologies</b>: JavaScript, Go(Golang), Node/Express.JS, VueJS, MongoDB, MySQL
 
 --
