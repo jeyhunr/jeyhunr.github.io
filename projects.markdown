@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-#### ***fridgiGO*** [visit site](http://fridgigo.com){:target="_blank"}
+#### ***fridgiGO*** [visit site](https://fridgigo.com){:target="_blank"}
 
 ![image](/images/fridgiGO.png)
 

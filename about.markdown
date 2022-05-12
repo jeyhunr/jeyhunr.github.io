@@ -11,7 +11,7 @@ I'm mainly interested in ***Software Engineering, Cloud Computing*** and ***Coff
 You can find my "Open-Source" projects on [my personal GitHub profile](https://github.com/jeyhunr){:target="_blank"}.
 
 #### Tech skills:
-**Programming Languages**: Go *(Programming language)*, JavaScript, PHP <br>
+**Programming Languages**: JavaScript, PHP, Go <br>
 **Frameworks**: Node/Express.JS <br>
 **Databases**: SQL/MySQL, MongoDB <br>
 **Other tools**: Git, REST API, Docker, Microservices, TYPO3(CMS)
